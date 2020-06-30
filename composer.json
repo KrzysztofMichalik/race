@@ -1,0 +1,16 @@
+{
+    "name": "krzysztof/patterns",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Krzysztof",
+            "email": "krzysztof.michalik01@gmail.com"
+        }
+    ],
+    "autoload":{
+      "psr-4": {
+          "Race\\": "src/"
+      }
+    },
+    "require": {}
+}
